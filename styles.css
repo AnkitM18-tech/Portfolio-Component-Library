@@ -36,3 +36,13 @@ hr{
     color:#1D4ED8;
     border:1px solid #1D4ED8;
 }
+
+/**lists**/
+.non-bullets{
+    list-style: none;
+}
+
+.list-items-inline{
+    display:inline;
+    padding:0 0.5rem;
+}
