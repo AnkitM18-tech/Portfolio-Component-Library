@@ -80,3 +80,16 @@ hr{
 .hero span{
     color:#1D4ED8;
 }
+/** sections**/
+.section{
+    padding:2rem;
+    text-align:center;
+}
+
+.section h1{
+    text-align:center;
+}
+
+.off-white {
+    background-color:#D1D5DB;
+}
