@@ -66,3 +66,17 @@ hr{
 .navigation .link-active{
     font-weight:700;
 }
+/**header**/
+.hero{
+    padding:2rem;
+    text-align:center;
+}
+.hero-image{
+    max-width: 350px;
+}
+.hero h1{
+    color:#6B7280;
+}
+.hero span{
+    color:#1D4ED8;
+}
